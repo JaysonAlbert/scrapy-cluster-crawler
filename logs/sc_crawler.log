@@ -1,0 +1,8 @@
+{"message": "Unable to connect to Kafka in Pipeline, raising exit flag.", "level": "ERROR", "timestamp": "2022-04-22T12:22:34.664911Z", "logger": "sc-crawler"}
+{"message": "Could not reach out to get public ip", "level": "ERROR", "timestamp": "2022-04-22T12:24:58.687763Z", "logger": "sc-crawler"}
+{"message": "Changed Public IP: None -> 127.0.0.1", "level": "INFO", "timestamp": "2022-04-22T12:24:58.723017Z", "logger": "sc-crawler"}
+{"message": "Could not reach out to get public ip", "level": "ERROR", "timestamp": "2022-04-22T12:24:59.248414Z", "logger": "sc-crawler"}
+{"message": "Changed Public IP: 127.0.0.1 -> 183.14.135.156", "level": "INFO", "timestamp": "2022-04-22T12:26:07.201672Z", "logger": "sc-crawler"}
+{"message": "Could not reach out to get public ip", "level": "ERROR", "timestamp": "2022-04-22T12:27:04.285131Z", "logger": "sc-crawler"}
+{"message": "Changed Public IP: 183.14.135.156 -> 127.0.0.1", "level": "INFO", "timestamp": "2022-04-22T12:27:04.285689Z", "logger": "sc-crawler"}
+{"message": "Could not reach out to get public ip", "level": "ERROR", "timestamp": "2022-04-22T12:28:04.263039Z", "logger": "sc-crawler"}
